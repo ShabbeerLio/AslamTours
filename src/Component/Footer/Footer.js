@@ -107,7 +107,7 @@ const Footer = (props) => {
                 </div>
                 <div className="footer-down">
                     <div className="footer-copyright">
-                        <p>© 2024 Urban Home Appliances Point</p>
+                        <p>© 2024 Aslam Tours And Travels</p>
                         <p>Designed by :<a href="https://globalitsources.com/">&#160; Global IT Sources</a></p>
                     </div>
                 </div>

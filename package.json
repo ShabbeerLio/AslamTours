@@ -1,5 +1,6 @@
 {
-  "name": "urban-homes",
+  "name": "aslam-tours",
+  "homepage": "https://aslamtoursandtravels.in.net/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
