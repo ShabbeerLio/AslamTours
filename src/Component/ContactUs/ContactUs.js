@@ -84,7 +84,7 @@ const ContactUs = (props) => {
                   </g>
                 </svg>
                 <div className="contact-caller-button-number">
-                  <p>Are you searching for Technician</p>
+                  <p>Are you searching for Taxi</p>
                   <h4>+91 6398097875</h4>
                 </div>
               </a>
